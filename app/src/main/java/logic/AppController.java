@@ -11,7 +11,7 @@ import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.Volley;
 
 public class AppController extends Application {
-
+	//New comment from branch
     public static final String TAG = AppController.class
             .getSimpleName();
 
